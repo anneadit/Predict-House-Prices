@@ -5,4 +5,4 @@ Information about the dataset can be found @ http://jse.amstat.org/v19n3/decock/
 
 The aim of this project is to emphasize the importance and amount of time spent of Data Cleaning and Feature Engineering. 
 
-The raw data  can be found in .tsv file 
+The raw data  can be found in the .tsv file 
